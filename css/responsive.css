@@ -1,0 +1,55 @@
+@media only screen and (max-width:1160px){
+    .awards{
+        flex-direction: column;
+        height: fit-content;
+    }
+    .awardsText{
+        margin-left: 20%;
+        width: fit-content;
+        height: fit-content;
+    }
+    .imgmargin{
+        height: 5%;
+    }
+    .img{
+        margin-left: 12%;
+    }
+    .footer1{
+        margin-left: 0%;
+        font-size: medium;
+        width: 80%;
+    }
+    .footerr{
+        height: fit-content;
+    }
+    .footer2{
+        margin-left: -10%;
+        font-size: medium;
+    }
+    .footer2heading{
+        margin-left: -10%;
+    }
+    
+}
+@media only screen and (max-width:500px){
+.respflex{
+    flex-direction: column;
+    margin-top: 10px;
+}
+.resimage{
+   margin-left: 2%;
+   margin-top: 2%;
+   height: 30%;
+}
+}
+@media only screen and (max-width:675px){
+    .story{
+        font-size: medium;
+    }
+    .name{
+        margin-left: 32px;
+    }
+    .storyname{
+        font-size: 25px;
+    }
+    }
